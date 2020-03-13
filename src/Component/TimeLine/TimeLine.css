@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+.people-container{
+    width: 80%;
+}
+.status{
+    width: 20%;
+}
